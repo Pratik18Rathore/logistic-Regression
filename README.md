@@ -100,7 +100,7 @@ Accuracy can be misleading if the dataset has class imbalance. Checking **Precis
 
 ---
 
-## 13. Questions the Sir Asked (Viva Prep)
+## 13. Questions Asked (Viva Prep)
 
 ### Q1. What are you predicting?
 **Answer:** I am predicting whether a person has diabetes or not (`0` = No diabetes, `1` = Diabetes).
